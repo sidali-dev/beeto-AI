@@ -59,6 +59,7 @@ A modern AI assistant app built with Flutter and GetX, featuring chat, drawing, 
 ```
 lib/
 ├── api/ - api logic
+├── const/ - For constant Strings and enums
 ├── controllers/ - Business logic and state management
 ├── helper/ - Helper functions and utilities
 ├── model/ - class models

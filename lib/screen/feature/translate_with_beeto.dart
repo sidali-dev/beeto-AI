@@ -2,8 +2,8 @@ import 'package:beeto_ai/helper/helper_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
+import 'package:beeto_ai/const/enums.dart';
 
-import '../../controller/draw_with_beeto_controller.dart';
 import '../../controller/translate_controller.dart';
 import '../../widget/language_sheet.dart';
 

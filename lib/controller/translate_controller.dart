@@ -1,9 +1,9 @@
+import 'package:beeto_ai/const/enums.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 import '../apis/apis.dart';
 import '../helper/my_dialog.dart';
-import 'draw_with_beeto_controller.dart';
 
 class TranslateWithBeetoController extends GetxController {
   final textFromController = TextEditingController();

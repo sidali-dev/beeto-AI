@@ -7,9 +7,6 @@ import 'package:image_gallery_saver/image_gallery_saver.dart';
 import '../apis/apis.dart';
 import '../helper/my_dialog.dart';
 
-//move this to a separate file
-enum Status { none, loading, complete }
-
 class DrawWithBeetoController extends GetxController {
   final TextEditingController promptController = TextEditingController();
 
