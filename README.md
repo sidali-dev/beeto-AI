@@ -1,4 +1,4 @@
-# CineX
+# Beeto - AI Assitant
 
 A modern AI assistant app built with Flutter and GetX, featuring chat, drawing, and translation capabilities with support for state management, responsive UI, and smooth user interaction.
 
@@ -9,9 +9,9 @@ A modern AI assistant app built with Flutter and GetX, featuring chat, drawing, 
   <img src="assets/screenshots/Preview-1.png" width="200" alt="Splash Screen"/>
   <img src="assets/screenshots/Preview-2.png" width="200" alt="Home Details"/>
   <img src="assets/screenshots/Preview-3.png" width="200" alt="Chat Screen"/>
-  <img src="assets/screenshots/Preview-4.png" width="200" alt="Translation screen"/>
-  <img src="assets/screenshots/Preview-5.png" width="200" alt="Image Generation Screen"/>
-  <img src="assets/screenshots/Preview-6.png" width="200" alt="Dark Mode Screen"/>
+  <img src="assets/screenshots/Preview-6.png" width="200" alt="Translation Screen"/>
+  <img src="assets/screenshots/Preview-4.png" width="200" alt="Image Generation screen"/>
+  <img src="assets/screenshots/Preview-5.png" width="200" alt="Dark Mode Screen"/>
 </div>
 
 ## Features
