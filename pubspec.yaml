@@ -17,9 +17,6 @@ dependencies:
   # Google Gemini Ai Integration
   google_generative_ai: ^0.4.3
 
-  # For using Lottie Animations
-  lottie: ^3.1.2
-
   # For State Management
   get: ^4.6.6
 
